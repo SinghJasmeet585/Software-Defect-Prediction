@@ -4,7 +4,7 @@ important aspect in order to ensure software
 quality. Deep Learning techniques can also be
 used for the same.
 
-In this project we use random forest, Convolutional Neural Networks,
+In this project we use Random forest, Convolutional Neural Networks,
 SVM and Artificial Neural Network to train the model with the data.
 After getting different results from these techniques, we combine them through
 Logistic Regression and get the final output.
